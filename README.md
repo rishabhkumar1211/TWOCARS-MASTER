@@ -1,5 +1,5 @@
 # TWOCARS-MASTER GAME
-link: https://rishabhkumar1211.github.io/TwoCars/
+link: https://rishabhkumar1211.github.io/TwoCars-Master/
 
 Rules:
   1. use left arrow key to control left car
