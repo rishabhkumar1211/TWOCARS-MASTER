@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>2 Cars</title>
+    <!-------Stylesheet----->
+    <link rel="stylesheet" type="text/css" href="CSS/style.css">
+</head>
+<body>
+    <!----Start Menu----->
+    <div id="startMenu">c
+        <p>2 Cars</p>
+        <p>Let's play,Use left and right key to move the car in opposite lane</p>
+        <p>Rules Of Game</p>
+        <ul>
+            <li>You have to use both the cars simultaneously</li>
+            <li>Beaware of the boxes</li>
+            <li>Collect all the circles</li>
+            <li>Don't forget to have fun</li>
+        </ul>
+        <img src="Images/playGame.png" alt="Play Game" id="playbutton" onclick="playbutton()">
+        <button type="button" id="lvl1" onclick="speed_counter = 25">Easy</button>
+        <button type="button" id="lvl2" onclick="speed_counter = 15">Hard</button>
+    </div>
+    <!-----Sounds------------>
+    <div class="sound">
+        <img src="audio/icons8-audio-100.png" alt="" id="sound">
+    </div>
+    <!-------Restart Menu---------->
+    <div id="restartMenu">
+        <p>2 Cars</p>
+        <p>Oops!! Game Over</p>
+        <p>Your Score:- <h1 id="endscore">0</h1></p>
+        <img src="Images/restartGame.png" alt="Restart Game" id="restartbutton" onclick="restartbutton()" >  
+    </div>
+    <!------Car score and High Score Display------>
+    <div id="car_score" ><h1>YOUR SCORE</h1><h1 id="score">0</h1></div>
+    <!------Canvas for game-->
+    <canvas id="canvas"></canvas>
+    <!-------JavaScript File-->
+    <script src="JS/app.js" type="text/javascript"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
