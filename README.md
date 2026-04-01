@@ -10,3 +10,15 @@ Rules:
  
 ENJOY THE GAME ....GOOD LUCK :)
   
+
+
+## Stats
+
+<!-- BADGES:START -->
+<!-- BADGES:END -->
+
+
+## Changelog
+
+<!-- CHANGELOG:START -->
+<!-- CHANGELOG:END -->
