@@ -9,16 +9,3 @@ Rules:
   5.you have two option either you play easy level or hard
  
 ENJOY THE GAME ....GOOD LUCK :)
-  
-
-
-## Stats
-
-<!-- BADGES:START -->
-<!-- BADGES:END -->
-
-
-## Changelog
-
-<!-- CHANGELOG:START -->
-<!-- CHANGELOG:END -->
